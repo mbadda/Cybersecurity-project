@@ -6,7 +6,7 @@ The project was separated into 3 parts:
 
 -Part [1] System Design, Architecture, & Administration
 
-    •	Set up the environment securely and design the architecture for it, then set up two servers, install the operating systems, install different applications, and run        them on the server. 
+    •	Set up the environment securely and design the architecture for it, then set up two servers, install the operating systems, install different applications, and run them on the server. 
     
 -Part [2] Offensive Cybersecurity 
 
